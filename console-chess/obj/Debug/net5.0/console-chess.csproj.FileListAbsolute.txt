@@ -1,0 +1,16 @@
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\bin\Debug\net5.0\console-chess.exe
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\bin\Debug\net5.0\console-chess.deps.json
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\bin\Debug\net5.0\console-chess.runtimeconfig.json
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\bin\Debug\net5.0\console-chess.runtimeconfig.dev.json
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\bin\Debug\net5.0\console-chess.dll
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\bin\Debug\net5.0\ref\console-chess.dll
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\bin\Debug\net5.0\console-chess.pdb
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\obj\Debug\net5.0\console-chess.csproj.AssemblyReference.cache
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\obj\Debug\net5.0\console-chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\obj\Debug\net5.0\console-chess.AssemblyInfoInputs.cache
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\obj\Debug\net5.0\console-chess.AssemblyInfo.cs
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\obj\Debug\net5.0\console-chess.csproj.CoreCompileInputs.cache
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\obj\Debug\net5.0\console-chess.dll
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\obj\Debug\net5.0\ref\console-chess.dll
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\obj\Debug\net5.0\console-chess.pdb
+C:\Users\weverton.ferreira\source\repos\console-chess\console-chess\obj\Debug\net5.0\console-chess.genruntimeconfig.cache
